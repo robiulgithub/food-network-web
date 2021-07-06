@@ -1,3 +1,44 @@
 body {
     font-family: 'Roboto Slab', serif;
+    font-family: 'Rubik', sans-serif;
+}
+
+h1 {
+    font-size: 65px;
+
+    color: rgb(120, 117, 117);
+}
+
+h3 {
+    font-size: 20px;
+    color: rgb(117, 113, 113);
+}
+
+.orange-color {
+    color: orange;
+}
+
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(orange, red);
+    padding: 20px 50px;
+    border-radius: 35px;
+    color: white;
+    width: 700;
+
+}
+
+section {
+    display: flex;
+
+}
+
+.haf-widht {
+    width: 50%;
+    padding: 5%;
+
+}
+
+.haf-widht img {
+    size: 100%;
 }
