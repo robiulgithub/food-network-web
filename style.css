@@ -52,6 +52,11 @@ section {
 
 .about-me {
     background-image: url(images/shapes/7.png );
+
+}
+
+.font {
+    font-size: 13px;
 }
 
 .box {
