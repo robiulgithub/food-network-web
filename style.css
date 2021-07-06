@@ -60,7 +60,7 @@ section {
     flex-wrap: wrap;
     justify-content: space-around;
     padding-left: 15%;
-
+    font: color gray;
 }
 
 .card {
@@ -72,6 +72,7 @@ section {
     box-shadow: 10px 10px 50px gray;
     padding: 7px 10px;
     font-size: 10px;
+
 }
 
 .card img {
@@ -82,5 +83,31 @@ section {
 .text {
     padding: 10px;
     background-color: white;
+
+}
+
+.like {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin: 100px;
+    text-align: center;
+    font-size: 10px;
+    box-shadow: 10px 10px 80px grey;
+    padding: 10px 30px;
+    border-radius: 5px;
+
+}
+
+.futer {
+    text-align: center;
+    font-size: 10px;
+
+    background-color: black;
+    padding: 10px 30px;
+}
+
+.gray-color {
+    color: gray;
 
 }
