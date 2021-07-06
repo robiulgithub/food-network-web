@@ -53,3 +53,34 @@ section {
 .about-me {
     background-image: url(images/shapes/7.png );
 }
+
+.box {
+    width: 70%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding-left: 15%;
+
+}
+
+.card {
+    width: 300px;
+    text-align: center;
+    margin-top: 30px;
+    border: 50px soli white;
+    border-radius: 10px;
+    box-shadow: 10px 10px 50px gray;
+    padding: 7px 10px;
+    font-size: 10px;
+}
+
+.card img {
+    width: 100%;
+
+}
+
+.text {
+    padding: 10px;
+    background-color: white;
+
+}
